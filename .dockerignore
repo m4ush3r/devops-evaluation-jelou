@@ -1,0 +1,17 @@
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
+terraform/
+aws-infrastructure-diagram.py
+aws-infrastructure-diagram.png
+build-and-push.sh
+cleanup.sh
+test-api.sh
+logs.txt
+DEPLOYMENT.md
